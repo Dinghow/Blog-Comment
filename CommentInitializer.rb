@@ -1,7 +1,7 @@
-username = "Dinghow" # GitHub 用户名
-new_token = "d398c1c31215cc1dc2f2d6fe8c2830dd758fdb5f"  # GitHub Token
-repo_name = "Blog-Comment" # 存放 issues
-sitemap_url = "https://dinghow.site/sitemap.xml" # sitemap
+username = "" # GitHub 用户名
+new_token = ""  # GitHub Token
+repo_name = "" # 存放 issues
+sitemap_url = "" # sitemap
 kind = "Gitalk" # "Gitalk" or "gitment"
 
 require 'open-uri'
